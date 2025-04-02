@@ -55,7 +55,7 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <a href="/public/resume.pdf" className="text_2" target="_blank" rel="noopener noreferrer">
+                  <a href="/resume.pdf" className="text_2" target="_blank" rel="noopener noreferrer">
                     <div id="button_p" className="ac_btn btn ">
                       My Resume
                       <div className="ring one"></div>

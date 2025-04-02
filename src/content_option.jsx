@@ -57,55 +57,55 @@ const skills = [
      },
      {
        //title: "CSS",
-       imageSrc: "/src/assets/images/css.png",
+       imageSrc: "./src/assets/images/css.png",
      },
      {
        //title: "Express",
-       imageSrc: "/src/assets/images/express.png",
+       imageSrc: "./src/assets/images/express.png",
      },
      {
        //title: "Figma",
-       imageSrc: "/src/assets/images/figma.png",
+       imageSrc: "./src/assets/images/figma.png",
      },
      {
        //title: "Git",
-       imageSrc: "/src/assets/images/git.png",
+       imageSrc: "./src/assets/images/git.png",
      },
      {
        //title: "GitHub",
-       imageSrc: "/src/assets/images/github.png",
+       imageSrc: "./src/assets/images/github.png",
      },
      {
        //title: "HTML",
-       imageSrc: "/src/assets/images/html.png",
+       imageSrc: "./src/assets/images/html.png",
      },
      {
        //title: "JavaScript",
-       imageSrc: "/src/assets/images/javascript.png",
+       imageSrc: "./src/assets/images/javascript.png",
      },
      {
        //title: "MongoDB",
-       imageSrc: "/src/assets/images/mongodb.png",
+       imageSrc: "./src/assets/images/mongodb.png",
      },
      {
        //title: "Next.js",
-       imageSrc: "/src/assets/images/nextjs.png",
+       imageSrc: "./src/assets/images/nextjs.png",
      },
      {
        //title: "Node",
-       imageSrc: "/src/assets/images/node.png",
+       imageSrc: "./src/assets/images/node.png",
      },
      {
        //title: "React",
-       imageSrc: "/src/assets/images/react.png",
+       imageSrc: "./src/assets/images/react.png",
      },
      {
        //title: "Tailwind CSS",
-       imageSrc: "/src/assets/images/tailwindcss.png",
+       imageSrc: "./src/assets/images/tailwindcss.png",
      },
      {
        //title: "VS Code",
-       imageSrc: "/src/assets/images/vscode.png",
+       imageSrc: "./src/assets/images/vscode.png",
      },
       
    ];
@@ -124,42 +124,42 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "src/assets/images/weather_now.png",
+        img: "./src/assets/images/weather_now.png",
         description: "The Weather Now App- a modern and responsive weather app built with React, Tailwind CSS, and OpenWeatherMap API.",
         link: "https://the-weathernow.netlify.app",
     },
     {
-       img: "src/assets/images/alfred_ai.png",
+       img: "./src/assets/images/alfred_ai.png",
        description: "Alfred- Your AI Personal Assistant",
        link: "https://github.com/she-codes404/alfred_ai_chatbot",
     },
     {
-        img: "src/assets/images/blog_screenshot.png",
+        img: "./src/assets/images/blog_screenshot.png",
         description: "A Blog App built with Next.js + Markdown",
         link: "https://github.com/she-codes404/nextjs_blog",
     },
    {
-        img: "src/assets/images/finance_dashboard.png",
+        img: "./src/assets/images/finance_dashboard.png",
         description: "Modern Analytics Dashboard built with HTML, CSS, JavaScript, and Chart.js",
         link: "https://github.com/she-codes404/finance_dashboard/",
    },
     {
-        img: "src/assets/images/banking_dashboard.png",
+        img: "./src/assets/images/banking_dashboard.png",
         description: "Banking Dashboard - responsive banking dashboard interface built with HTML and CSS",
         link: "https://github.com/she-codes404/banking_dashboard",
     },
     {
-        img: "src/assets/images/fintech_dashboard.png",
+        img: "./src/assets/images/fintech_dashboard.png",
         description: "GitFunds Dashboard - A modern financial management interface built with HTML and CSS.",
         link: "https://github.com/she-codes404/financial_dashboard",
    },
    {
-        img: "src/assets/images/burgerworld.png",
+        img: "./src/assets/images/burgerworld.png",
         description: "BurgerWorld- a burger ordering dashboard built with HTML, CSS, and JavaScript.",
         link: "https://github.com/she-codes404/food_ordering_dashboard",
    },
     {
-       img: "src/assets/images/food_website.png",
+       img: "./src/assets/images/food_website.png",
         description: "Craft- a responsive food ordering website built with HTML, CSS, and JavaScript.",
        link: "https://github.com/she-codes404/food_website",
    },
