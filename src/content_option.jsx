@@ -14,7 +14,7 @@ const introdata = {
     },
     description: "My passion for innovation goes beyond coding. I connect the dots between technology and solve real-world puzzles with creativity and precision. The journey that comes with each new project, bringing both my technical skills and enthusiasm to deliver work I'm proud to stand behind.",
 
-    your_img_url: "src/assets/images/aboutme-image.png",
+    your_img_url: "./src/assets/images/aboutme-image.png",
 };
 
 const dataabout = {
